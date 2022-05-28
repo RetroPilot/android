@@ -17,6 +17,13 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+  
+  <!-- My stuff -->
+  
+  <project name="AdamSBlack/android_device_google_crosshatch" path="device/google/crosshatch" remote="github" />
+  <project name="AdamSBlack/android_device_google_blueline" path="device/google/blueline" remote="github" />
+  <project name="AdamSBlack/android_kernel_google_crosshatch" path="kernel/google/crosshatch" remote="github" />
+
 
   <!-- AOSP Projects -->
 
