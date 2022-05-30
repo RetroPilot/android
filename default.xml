@@ -25,6 +25,7 @@
   <project name="AdamSBlack/android_kernel_google_crosshatch" path="kernel/google/crosshatch" remote="github" />
   <project name="AdamSBlack/proprietary_vendor_google" path="vendor/google" remote="github" />
   <project name="AdamSBlack/android_vendor_retropilot" path="vendor/retropilot" remote="github" />
+  <project name="AdamSBlack/android_device_retropilot" path="device/retropilot" remote="github" />
  
   <!-- AOSP Projects -->
 
