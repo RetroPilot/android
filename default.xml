@@ -18,6 +18,9 @@
            sync-c="true"
            sync-j="4" />
   
+  <remote name="gitlab"
+fetch="https://gitlab.com/" />
+  
   <!-- My stuff -->
   
   <project name="AdamSBlack/android_device_google_crosshatch" path="device/google/crosshatch" remote="github" />
