@@ -33,7 +33,6 @@ fetch="https://gitlab.com/" />
   
   <project name="AdamSBlack/android_device_oneplus_fajita" path="device/oneplus/fajita" remote="github" />
   <project name="theMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" />
-  <project name="AdamSBlack/android_kernel_oneplus_crosshatch" path="kernel/google/crosshatch" remote="github" />
 
   
   
