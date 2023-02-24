@@ -45,10 +45,6 @@
   <project name="LineageOS/android_device_oneplus_common" path="device/oneplus/common" remote="github" />
   <project name="theMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" />
 
-  <!-- Lineage Common -->
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github"/>  
-
-
 
   <!-- AOSP Projects -->
 
